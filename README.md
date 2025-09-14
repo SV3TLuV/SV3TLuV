@@ -8,27 +8,32 @@
 ### :hammer_and_wrench: Languages and Tools
 
 #### Languages
-<div>
-  <img width="128" height="128" src="https://raw.githubusercontent.com/SV3TLuV/SV3TLuV/main/assets/icons/go.svg" alt="Go"/><br>Go
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/cpp.svg" alt="C++"/><br>C++
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/csharp.svg" alt="C#"/><br>C#
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/ts.svg" alt="TS"/><br>Typescript
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/swift.svg" alt="Swift"/><br>Swift
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img width="128" height="128" src="https://raw.githubusercontent.com/SV3TLuV/SV3TLuV/main/assets/icons/go.svg"/><br>Go</td>
+    <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/cpp.svg"/><br>C++</td>
+    <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/csharp.svg"/><br>C#</td>
+    <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/ts.svg"/><br>Typescript</td>
+    <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/swift.svg"/><br>Swift</td>
+  </tr>
+</table>
 
 #### Frameworks & Tools
-<div>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/postgres.svg" alt="Postgres"/><br>PostgreSQL
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/mongo.svg" alt="MongoDB"/><br>MongoDB
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/redis.svg" alt="Redis"/><br>Redis
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/docker.svg" alt="Docker"/><br>Docker
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/nginx.svg" alt="Nginx"/><br>Nginx
-</div>
-<div>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/react.svg" alt="React"/><br>React
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/postgres.svg"/><br>PostgreSQL</td>
+    <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/mongo.svg"/><br>MongoDB</td>
+    <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/redis.svg"/><br>Redis</td>
+    <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/docker.svg"/><br>Docker</td>
+    <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/nginx.svg"/><br>Nginx</td>
+  </tr>
+  <tr>
+    <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/react.svg"/><br>React</td>
+  </tr>
+</table>
 
 ---
+
 ### :fire: My Stats :
 
 ![GitHub Stats](https://github-readme-stats-sv3tluv.vercel.app/api?username=SV3TLuV&include_all_commits=true&show_icons=true&border_radius=0&theme=midnight-purple)
