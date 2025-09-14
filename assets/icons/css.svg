@@ -41,20 +41,25 @@
 
         <mask id="lightMask" maskUnits="userSpaceOnUse">
             <g filter="url(#maskFilter)">
-                <g><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="43" y="43" width="154" height="154" viewBox="0 0 256 256" fill="none" version="1.1">
-
-                    <g transform="translate(0, 0)">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
-                            <rect width="256" height="256" rx="60" fill="#0277BD"/>
-                            <path d="M53.7527 102.651L56.6155 134.593H128.096V102.651H53.7527Z" fill="#EBEBEB"/>
-                            <path d="M128.095 38H127.985H48L50.9036 69.9423H128.095V38Z" fill="#EBEBEB"/>
-                            <path d="M128.095 218.841V185.608L127.955 185.645L92.3813 176.04L90.1072 150.564H72.821H58.0425L62.5175 200.718L127.948 218.882L128.095 218.841Z" fill="#EBEBEB"/>
-                            <path d="M167.318 134.593L163.61 176.019L127.985 185.635V218.866L193.468 200.718L193.948 195.321L201.454 111.229L202.233 102.651L208 38H127.985V69.9423H172.994L170.088 102.651H127.985V134.593H167.318Z" fill="white"/>
-                        </svg>
-
+                <svg width="154" height="154" x="43" y="43" viewBox="0 0 154 154" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <g clip-path="url(#clip0_7_168)">
+                        <g clip-path="url(#clip1_7_168)">
+                            <path d="M32.3356 61.751L34.0578 80.9661H77.0577V61.751H32.3356Z" fill="#EBEBEB"/>
+                            <path d="M77.0571 22.8594H76.991H28.875L30.6217 42.0747H77.0571V22.8594Z" fill="#EBEBEB"/>
+                            <path d="M77.0572 131.647V111.655L76.9729 111.677L55.5731 105.899L54.2051 90.5737H43.8064H34.9162L37.6082 120.744L76.9687 131.671L77.0572 131.647Z" fill="#EBEBEB"/>
+                            <path d="M100.652 80.9661L98.4216 105.886L76.991 111.671V131.662L116.383 120.744L116.672 117.498L121.187 66.9112L121.656 61.751L125.125 22.8594H76.991V42.0747H104.067L102.319 61.751H76.991V80.9661H100.652Z" fill="white"/>
+                        </g>
                     </g>
+                    <defs>
+                        <clipPath id="clip0_7_168">
+                            <rect width="154" height="154" fill="white"/>
+                        </clipPath>
+                        <clipPath id="clip1_7_168">
+                            <rect width="154" height="154" fill="white"/>
+                        </clipPath>
+                    </defs>
+                </svg>
 
-                </svg></g>
             </g>
         </mask>
 
