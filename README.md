@@ -9,23 +9,23 @@
 
 #### Languages
 <div>
-  <img width="128" height="128" src="https://raw.githubusercontent.com/SV3TLuV/SV3TLuV/main/assets/icons/go.svg" alt="Go"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/cpp.svg" alt="C++"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/csharp.svg" alt="C#"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/ts.svg" alt="TS"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/swift.svg" alt="Swift"/>
+  <img width="128" height="128" src="https://raw.githubusercontent.com/SV3TLuV/SV3TLuV/main/assets/icons/go.svg" alt="Go"/><br>Go
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/cpp.svg" alt="C++"/><br>C++
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/csharp.svg" alt="C#"/><br>C#
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/ts.svg" alt="TS"/><br>Typescript
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/swift.svg" alt="Swift"/><br>Swift
 </div>
 
 #### Frameworks & Tools
 <div>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/postgres.svg" alt="Postgres"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/mongo.svg" alt="MongoDB"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/redis.svg" alt="Redis"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/docker.svg" alt="Docker"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/nginx.svg" alt="Nginx"/>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/postgres.svg" alt="Postgres"/><br>PostgreSQL
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/mongo.svg" alt="MongoDB"/><br>MongoDB
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/redis.svg" alt="Redis"/><br>Redis
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/docker.svg" alt="Docker"/><br>Docker
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/nginx.svg" alt="Nginx"/><br>Nginx
 </div>
 <div>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/react.svg" alt="React"/>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/react.svg" alt="React"/><br>React
 </div>
 
 ---
