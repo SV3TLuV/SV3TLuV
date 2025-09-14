@@ -1,28 +1,46 @@
 ### :hammer_and_wrench: Languages and Tools
 
 #### Languages
-<table>
-  <tr>
-    <td width="100" height="100" align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Go"/>
-    <td width="100" height="100" align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
-    <td width="100" height="100" align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#"/>
-    <td width="100" height="100" align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TS"/>
-    <td width="100" height="100" align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift"/>
-  </tr>
-</table>
+<div>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/go.svg" alt="Go"/>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/cpp.svg" alt="C++"/>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/csharp.svg" alt="C#"/>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/ts.svg" alt="TS"/>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/swift.svg" alt="Swift"/>
+</div>
 
 #### Frameworks & Tools
+<div>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/postgres.svg" alt="Postgres"/>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/mongo.svg" alt="MongoDB"/>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/redis.svg" alt="Redis"/>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/docker.svg" alt="Docker"/>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/nginx.svg" alt="Nginx"/>
+</div>
+
+
 <table>
   <tr>
-    <td width="100" height="100" align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres"/>
-    <td width="100" height="100" align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>
-    <td width="100" height="100" align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis"/>
-    <td width="100" height="100" align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker"/>
-    <td width="100" height="100" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx"/>
+    <td width="100" height="100" align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>
+    </td>
+    <td width="100" height="100" align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis"/>
+    </td>
+    <td width="100" height="100" align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker"/>
+    </td>
+    <td width="100" height="100" align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx"/>
+    </td>
   </tr>
   <tr>
-    <td width="100" height="100" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-plain.svg" alt="gRPC"/>
-    <td width="100" height="100" align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React"/>
+    <td width="100" height="100" align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-plain.svg" alt="gRPC"/>
+    </td>
+    <td width="100" height="100" align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React"/>
+    </td>
   </tr>
 </table>
 
