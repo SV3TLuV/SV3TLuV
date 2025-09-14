@@ -1,21 +1,72 @@
-<svg width="158" height="158" viewBox="0 0 158 158" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <g filter="url(#filter0_d_3_76)">
-        <rect x="15" y="15" width="128" height="128" fill="#0D1117"/>
-        <rect x="16" y="16" width="126" height="126" stroke="#C9D1D9" stroke-width="2"/>
-        <path d="M137.766 50.7042C137.765 48.2403 137.517 45.7826 137.026 43.3682C136.534 40.8966 135.698 38.5061 134.543 36.2665C133.336 34.0973 131.835 32.1048 130.083 30.3453C128.277 28.5777 126.179 27.1356 123.881 26.0824C121.614 24.9391 119.189 24.1402 116.686 23.712C114.203 23.2342 111.477 23.2342 108.994 23H47.7485C45.8381 23.0311 43.9318 23.1907 42.0428 23.4778C40.1682 23.6985 38.3332 24.1778 36.59 24.9019C36.0935 25.1361 35.3533 25.3797 34.8568 25.614C33.2076 26.498 31.64 27.5263 30.1723 28.687C29.6757 29.1648 29.1791 29.399 28.6826 29.8675C26.8566 31.5611 25.3465 33.5661 24.2229 35.7887C22.9959 37.9968 22.1562 40.3988 21.7402 42.8904C21.3709 45.3218 21.1239 47.7702 21 50.2264V106.806C21.0008 109.27 21.2487 111.727 21.7402 114.142C22.2318 116.613 23.0675 119.004 24.2229 121.243C25.4304 123.413 26.9311 125.405 28.6826 127.165C30.4891 128.932 32.5874 130.374 34.8849 131.428C37.1522 132.571 39.5773 133.37 42.0803 133.798C44.5631 134.276 47.2895 134.276 49.7722 134.51H109.003C111.583 134.508 114.158 134.27 116.695 133.798C119.198 133.37 121.623 132.571 123.891 131.428C126.139 130.29 128.225 128.856 130.093 127.165C131.919 125.471 133.429 123.466 134.552 121.243C135.779 119.035 136.619 116.633 137.035 114.142C137.404 111.71 137.651 109.262 137.775 106.806V50.7042H137.766Z" fill="#0D1117"/>
-        <path d="M99.0439 109.204C88.6349 114.947 74.3284 115.538 59.9282 109.645C48.7006 105.089 39.1008 97.2649 32.374 87.1871C35.5002 89.5802 38.9155 91.5696 42.5394 93.1083C57.408 99.7603 72.2672 99.3012 82.7324 93.1083C67.8357 82.1841 55.1875 67.9806 45.7623 56.3818C43.9023 54.4216 42.2421 52.2812 40.8061 49.9921C52.1988 59.9326 70.3185 72.4778 76.7644 76.0286C67.561 66.5986 59.1034 56.4684 51.468 45.7292C64.1603 58.0634 78.1266 69.0147 93.132 78.399C93.7972 78.755 94.3125 79.0548 94.7248 79.3359C95.1646 78.2621 95.5431 77.1641 95.8584 76.0474C99.3343 63.9707 95.3619 50.2451 86.6861 38.8805C106.773 50.4699 118.719 72.2435 113.716 90.4756C113.585 90.9722 113.444 91.4125 113.294 91.9278L113.472 92.1339C123.394 103.967 120.668 116.493 119.421 114.151C114.034 104.051 104.075 107.171 99.0439 109.204Z" fill="#7F5AF0"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 240 240" overflow="visible">
     <defs>
-        <filter id="filter0_d_3_76" x="0" y="0" width="158" height="158" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-            <feMorphology radius="5" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_3_76"/>
-            <feOffset/>
-            <feGaussianBlur stdDeviation="5"/>
-            <feComposite in2="hardAlpha" operator="out"/>
-            <feColorMatrix type="matrix" values="0 0 0 0 0.498039 0 0 0 0 0.352941 0 0 0 0 0.941176 0 0 0 0.25 0"/>
-            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3_76"/>
-            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3_76" result="shape"/>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#009BFF">
+                <animate attributeName="stop-color" values="#009BFF;#FF3A76;#FFB200;#6A5CFF;#009BFF" dur="6s" repeatCount="indefinite" keyTimes="0;0.25;0.5;0.75;1" calcMode="linear"/>
+            </stop>
+            <stop offset="25%" stop-color="#FF3A76">
+                <animate attributeName="stop-color" values="#FF3A76;#FFB200;#6A5CFF;#009BFF;#FF3A76" dur="6s" repeatCount="indefinite" keyTimes="0;0.25;0.5;0.75;1" calcMode="linear"/>
+            </stop>
+            <stop offset="50%" stop-color="#FFB200">
+                <animate attributeName="stop-color" values="#FFB200;#6A5CFF;#009BFF;#FF3A76;#FFB200" dur="6s" repeatCount="indefinite" keyTimes="0;0.25;0.5;0.75;1" calcMode="linear"/>
+            </stop>
+            <stop offset="75%" stop-color="#6A5CFF">
+                <animate attributeName="stop-color" values="#6A5CFF;#009BFF;#FF3A76;#FFB200;#6A5CFF" dur="6s" repeatCount="indefinite" keyTimes="0;0.25;0.5;0.75;1" calcMode="linear"/>
+            </stop>
+            <stop offset="100%" stop-color="#009BFF">
+                <animate attributeName="stop-color" values="#009BFF;#FF3A76;#FFB200;#6A5CFF;#009BFF" dur="6s" repeatCount="indefinite" keyTimes="0;0.25;0.5;0.75;1" calcMode="linear"/>
+            </stop>
+        </linearGradient>
+
+        <filter id="shadow3D" x="-60%" y="-60%" width="220%" height="220%">
+            <feGaussianBlur in="SourceAlpha" stdDeviation="12" result="blur"/>
+            <feOffset in="blur" dx="0" dy="0" result="offsetBlur"/>
+            <feMerge>
+                <feMergeNode in="offsetBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+        <filter id="glow" x="-200%" y="-200%" width="400%" height="400%">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur1"/>
+            <feGaussianBlur in="SourceGraphic" stdDeviation="12" result="blur2"/>
+            <feGaussianBlur in="SourceGraphic" stdDeviation="18" result="blur3"/>
+            <feMerge>
+                <feMergeNode in="blur1"/>
+                <feMergeNode in="blur2"/>
+                <feMergeNode in="blur3"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+        <mask id="lightMask" maskUnits="userSpaceOnUse">
+            <g filter="url(#maskFilter)">
+                <g><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="43" y="43" width="154" height="154" viewBox="0 0 256 256" fill="none" version="1.1">
+
+                    <g transform="translate(0, 0)">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#F05138" rx="60"/><path fill="#fff" d="M202.677 158.04C202.918 157.074 203.159 156.109 203.401 155.144C214.017 112.92 188.2 62.7333 144.287 36.4336C163.589 62.492 172.034 94.0999 164.554 121.606C163.83 124.019 163.106 126.432 162.141 128.845C161.176 128.121 159.97 127.397 158.281 126.673C158.281 126.673 114.609 99.6494 67.3176 52.1169C66.1112 50.9105 92.6522 89.9981 122.571 121.606C108.336 113.644 69.0066 84.9313 43.9133 62.2508C47.0499 67.3177 50.6692 72.3846 54.5297 76.9689C75.2799 103.51 102.545 136.083 135.118 161.176C112.196 175.171 79.8643 176.377 47.7738 161.176C39.8115 157.557 32.3318 152.973 25.3346 147.906C38.8464 169.621 59.8379 188.441 85.4137 199.54C115.815 212.569 146.217 211.846 168.656 199.781C168.656 199.781 168.897 199.781 168.897 199.54C169.862 199.058 170.828 198.334 171.793 197.851C182.65 192.302 203.883 186.752 215.465 208.95C218.843 214.017 224.875 185.063 202.677 158.04Z"/></svg>
+                    </g>
+
+                </svg></g>
+            </g>
+        </mask>
+
+        <filter id="maskFilter">
+            <feColorMatrix in="SourceGraphic" type="saturate" values="0" result="gray"/>
+            <feColorMatrix in="gray" type="luminanceToAlpha" result="lum"/>
+            <feComponentTransfer in="lum" result="maskLight">
+                <feFuncA type="discrete" tableValues="0 1"/>
+            </feComponentTransfer>
+            <feFlood flood-color="white" result="fill"/>
+            <feComposite in="fill" in2="maskLight" operator="in"/>
         </filter>
     </defs>
+
+    <rect x="38" y="38" width="164" height="164" rx="40" ry="40" fill="rgba(0,0,0,1)" filter="url(#shadow3D)"/>
+
+    <rect x="40" y="40" width="160" height="160" rx="40" ry="40" fill="#0D1117"/>
+
+    <rect x="40" y="40" width="160" height="160" rx="40" ry="40" fill="url(#gradient)" mask="url(#lightMask)"/>
+
+    <rect x="40" y="40" width="160" height="160" rx="40" ry="40" fill="transparent" stroke="url(#gradient)" stroke-width="6" filter="url(#glow)"/>
 </svg>
