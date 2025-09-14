@@ -41,13 +41,23 @@
 
         <mask id="lightMask" maskUnits="userSpaceOnUse">
             <g filter="url(#maskFilter)">
-                <g><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="43" y="43" width="154" height="154" viewBox="0 0 256 256" fill="none" version="1.1">
-
-                    <g transform="translate(0, 0)">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#E14E1D" rx="60"/><path fill="#fff" d="M48 38L56.6098 134.593H167.32L163.605 176.023L127.959 185.661L92.38 176.037L90.0012 149.435H57.9389L62.5236 200.716L127.951 218.888L193.461 200.716L202.244 102.655H85.8241L82.901 69.9448H205.041H205.139L208 38H48Z"/><path fill="#EBEBEB" d="M128 38H48L56.6098 134.593H128V102.655H85.8241L82.901 69.9448H128V38Z"/><path fill="#EBEBEB" d="M128 185.647L127.959 185.661L92.38 176.037L90.0012 149.435H57.9388L62.5236 200.716L127.951 218.888L128 218.874V185.647Z"/></svg>
+                <svg width="154" height="154" x="43" y="43" viewBox="0 0 154 154" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <g clip-path="url(#clip0_7_321)">
+                        <g clip-path="url(#clip1_7_321)">
+                            <path d="M28.875 22.8594L34.0543 80.9661H100.653L98.4186 105.889L76.9753 111.687L55.5723 105.897L54.1413 89.8945H34.8539L37.6119 120.743L76.9705 131.675L116.379 120.743L121.662 61.7534H51.6286L49.8701 42.0762H123.345H123.404L125.125 22.8594H28.875Z" fill="white"/>
+                            <path d="M77 22.8594H28.875L34.0543 80.9661H77V61.7534H51.6286L49.8701 42.0762H77V22.8594Z" fill="#EBEBEB"/>
+                            <path d="M77 111.678L76.9753 111.687L55.5723 105.897L54.1413 89.8945H34.8538L37.6118 120.743L76.9705 131.675L77 131.666V111.678Z" fill="#EBEBEB"/>
+                        </g>
                     </g>
-
-                </svg></g>
+                    <defs>
+                        <clipPath id="clip0_7_321">
+                            <rect width="154" height="154" fill="white"/>
+                        </clipPath>
+                        <clipPath id="clip1_7_321">
+                            <rect width="154" height="154" fill="white"/>
+                        </clipPath>
+                    </defs>
+                </svg>
             </g>
         </mask>
 

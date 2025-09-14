@@ -41,13 +41,28 @@
 
         <mask id="lightMask" maskUnits="userSpaceOnUse">
             <g filter="url(#maskFilter)">
-                <g><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="43" y="43" width="154" height="154" viewBox="0 0 256 256" fill="none" version="1.1">
-
-                    <g transform="translate(0, 0)">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#00599C" rx="60"/><path fill="#fff" d="M110.759 210.517C65.1254 210.517 28 173.392 28 127.759C28 82.1254 65.1254 45 110.759 45C140.204 45 167.667 60.8458 182.427 86.3533L146.611 107.079C139.224 94.3111 125.485 86.3793 110.759 86.3793C87.9416 86.3793 69.3793 104.942 69.3793 127.759C69.3793 150.575 87.9416 169.138 110.759 169.138C125.486 169.138 139.225 161.206 146.613 148.436L182.429 169.161C167.669 194.671 140.206 210.517 110.759 210.517Z"/><path fill="#fff" d="M193.517 123.161H184.321V113.965H175.127V123.161H165.931V132.356H175.127V141.552H184.321V132.356H193.517V123.161Z"/><path fill="#fff" d="M228 123.161H218.804V113.965H209.61V123.161H200.414V132.356H209.61V141.552H218.804V132.356H228V123.161Z"/></svg>
+                <svg width="154" height="154" x="43" y="43" viewBox="0 0 154 154" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <g clip-path="url(#clip0_7_154)">
+                        <mask id="mask0_7_154" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="154" height="154">
+                            <path d="M154 0H0V154H154V0Z" fill="white"/>
+                        </mask>
+                        <g mask="url(#mask0_7_154)">
+                            <mask id="mask1_7_154" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="154" height="154">
+                                <path d="M154 0H0V154H154V0Z" fill="white"/>
+                            </mask>
+                            <g mask="url(#mask1_7_154)">
+                                <path d="M66.6285 126.639C39.177 126.639 16.8438 104.306 16.8438 76.855C16.8438 49.4036 39.177 27.0703 66.6285 27.0703C84.3415 27.0703 100.862 36.6026 109.741 51.9469L88.1957 64.4147C83.7519 56.734 75.4871 51.9625 66.6285 51.9625C52.9024 51.9625 41.736 63.1292 41.736 76.855C41.736 90.5803 52.9024 101.747 66.6285 101.747C75.4877 101.747 83.7525 96.9755 88.1969 89.2935L109.742 101.761C100.863 117.107 84.3427 126.639 66.6285 126.639Z" fill="white"/>
+                                <path d="M116.413 74.089H110.881V68.5571H105.35V74.089H99.8179V79.6204H105.35V85.1524H110.881V79.6204H116.413V74.089Z" fill="white"/>
+                                <path d="M137.156 74.089H131.624V68.5571H126.094V74.089H120.562V79.6204H126.094V85.1524H131.624V79.6204H137.156V74.089Z" fill="white"/>
+                            </g>
+                        </g>
                     </g>
-
-                </svg></g>
+                    <defs>
+                        <clipPath id="clip0_7_154">
+                            <rect width="154" height="154" fill="white"/>
+                        </clipPath>
+                    </defs>
+                </svg>
             </g>
         </mask>
 
