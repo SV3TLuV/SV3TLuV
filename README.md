@@ -8,7 +8,7 @@
 ### :hammer_and_wrench: Languages and Tools
 
 #### Languages
-<table align="center">
+<table>
   <tr>
     <td align="center"><img width="128" height="128" src="https://raw.githubusercontent.com/SV3TLuV/SV3TLuV/main/assets/icons/go.svg"/><br>Go</td>
     <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/cpp.svg"/><br>C++</td>
@@ -19,7 +19,7 @@
 </table>
 
 #### Frameworks & Tools
-<table align="center">
+<table>
   <tr>
     <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/postgres.svg"/><br>PostgreSQL</td>
     <td align="center"><img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/mongo.svg"/><br>MongoDB</td>
