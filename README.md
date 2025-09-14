@@ -32,6 +32,6 @@
 ---
 ### :fire: My Stats :
 
-![GitHub Stats](https://github-readme-stats-sv3tluv.vercel.app/api?username=SV3TLuV&show_icons=true&border_radius=0&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats-sv3tluv.vercel.app/api?username=SV3TLuV&include_all_commits=true&show_icons=true&border_radius=0&theme=midnight-purple)
 
 ![Top Langs](https://github-readme-stats-sv3tluv.vercel.app/api/top-langs/?username=SV3TLuV&layout=compact&hide=Kotlin,SCSS,Dockerfile&langs_count=16&border_radius=0&theme=midnight-purple)
