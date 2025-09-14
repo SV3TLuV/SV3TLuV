@@ -9,7 +9,7 @@
 
 #### Languages
 <div>
-  <img width="128" height="128" src="https://raw.githubusercontent.com/SV3TLuV/SV3TLuV/main/assets/icons/test.svg" alt="Go"/>
+  <img width="128" height="128" src="https://raw.githubusercontent.com/SV3TLuV/SV3TLuV/main/assets/icons/go.svg" alt="Go"/>
   <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/cpp.svg" alt="C++"/>
   <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/csharp.svg" alt="C#"/>
   <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/ts.svg" alt="TS"/>
