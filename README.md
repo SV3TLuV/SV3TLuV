@@ -17,32 +17,10 @@
   <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/docker.svg" alt="Docker"/>
   <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/nginx.svg" alt="Nginx"/>
 </div>
-
-
-<table>
-  <tr>
-    <td width="100" height="100" align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>
-    </td>
-    <td width="100" height="100" align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis"/>
-    </td>
-    <td width="100" height="100" align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker"/>
-    </td>
-    <td width="100" height="100" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="100" height="100" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-plain.svg" alt="gRPC"/>
-    </td>
-    <td width="100" height="100" align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React"/>
-    </td>
-  </tr>
-</table>
+<div>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/grpc.svg" alt="gRPC"/>
+  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/react.svg" alt="React"/>
+</div>
 
 ---
 ### :fire: My Stats :
