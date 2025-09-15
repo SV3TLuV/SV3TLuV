@@ -9,24 +9,24 @@
 
 #### Languages
 <div>
-  <img width="128" height="128" src="https://raw.githubusercontent.com/SV3TLuV/SV3TLuV/main/assets/icons/go.svg"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/cpp.svg"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/csharp.svg"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/ts.svg"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/swift.svg"/>
+  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=go"/>
+  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=cpp"/>
+  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=cs"/>
+  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=ts"/>
+  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=swift"/>
 </div>
 
 #### Frameworks & Tools
 <div>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/postgres.svg"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/mongo.svg"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/redis.svg"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/docker.svg"/>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/nginx.svg"/>
+  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=postgresql"/>
+  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=mongo"/>
+  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=redis"/>
+  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=docker"/>
+  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=nginx"/>
 </div>
 
 <div>
-  <img width="128" height="128" src="https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/icons/react.svg"/>
+  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=react"/>
 </div>
 
 ---
