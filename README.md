@@ -7,26 +7,10 @@
 
 ### :hammer_and_wrench: Languages and Tools
 
-#### Languages
-<div>
-  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=go"/>
-  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=cpp"/>
-  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=cs"/>
-  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=ts"/>
-  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=swift"/>
-</div>
+<div align="center">
 
-#### Frameworks & Tools
-<div>
-  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=postgresql"/>
-  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=mongo"/>
-  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=redis"/>
-  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=docker"/>
-  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=nginx"/>
-</div>
-
-<div>
-  <img width="128" height="128" src="https://sv3tluv-profile.vercel.app/api/icon?tool=react"/>
+  ![Languages and Tools](https://sv3tluv-profile.vercel.app/api/icon/carousel?tools=go,cpp,cs,ts,swift,postgresql,mongo,redis,docker,nginx,react)
+  
 </div>
 
 ---
