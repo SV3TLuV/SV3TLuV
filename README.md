@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  ![Languages and Tools](https://sv3tluv-profile.vercel.app/api/icon/carousel?tools=go,cpp,cs,ts,swift,postgresql,mongo,redis,docker,nginx,react)
+  ![Languages and Tools](https://sv3tluv-profile.vercel.app/api/icon/carousel?tools=go,cpp,cs,js,ts,swift,postgresql,mongo,redis,docker,nginx,react)
   
 </div>
 
