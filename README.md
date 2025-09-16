@@ -19,4 +19,4 @@
 
 ![GitHub Stats](https://sv3tluv-profile.vercel.app/api/stats)
 
-![Top Langs](https://github-readme-stats-sv3tluv.vercel.app/api/top-langs/?username=SV3TLuV&layout=compact&hide=Kotlin,SCSS,Dockerfile&langs_count=16&border_radius=0&theme=midnight-purple)
+![Top Langs](https://sv3tluv-profile.vercel.app/api/stats/top-languages)
