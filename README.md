@@ -3,7 +3,7 @@
   
   <img src = "https://github.com/SV3TLuV/SV3TLuV/blob/main/assets/me.gif?raw=true" width = 300px>
 
-  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20SV3TLuV&animation=fadeIn&type=blur&color=gradient&height=160&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20SV3TLuV&animation=fadeIn&type=transparent&color=gradient&height=160&fontSize=40"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 <!-- LANGUAGES & TOOLS -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?text=LANGUAGES%20AND%20TOOLS&animation=fadeIn&type=blur&color=gradient&height=160&fontSize=36"/>
+  <img src="https://capsule-render.vercel.app/api?text=LANGUAGES%20AND%20TOOLS&animation=fadeIn&type=transparent&color=gradient&height=160&fontSize=36"/>
 
 </div>
 
