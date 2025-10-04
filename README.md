@@ -30,11 +30,22 @@
 
   <img src="https://capsule-render.vercel.app/api?text=LANGUAGES%20AND%20TOOLS&animation=fadeIn&type=blur&color=gradient&height=160&fontSize=36"/>
 
+</div>
+
+<!-- SPLITTER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
   ![Languages and Tools](https://sv3tluv-profile.vercel.app/api/icon/carousel?tools=go,cpp,cs,js,ts,swift,postgres,mongodb,redis,docker,nginx,react)
-    
-  ![Top Langs](https://sv3tluv-profile.vercel.app/api/stats/top-languages)
 
 </div>
 
 <!-- SPLITTER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+  ![Top Langs](https://sv3tluv-profile.vercel.app/api/stats/top-languages)
+
+</div>
